@@ -205,7 +205,6 @@ PRODUCT_PACKAGES += \
     libOmxVpp \
     libOmxWmaDec \
     libacdb-fts \
-    libacdbloader \
     libacdbrtac \
     libadiertac \
     libadm \
@@ -216,6 +215,7 @@ PRODUCT_PACKAGES += \
     libcapiv2svacnn \
     libcapiv2svarnn \
     libcapiv2vop \
+    libdrc \
     libdsd2pcm \
     libfastcrc \
     libgcs-calwrapper \
@@ -231,6 +231,7 @@ PRODUCT_PACKAGES += \
     libqtigef \
     libsmwrapper \
     libssrec \
+    libsurround_3mic_proc \
     libwfdcodecv4l2_proprietary \
     libwfdcommonutils_proprietary \
     libwfdconfigutils_proprietary \
@@ -252,6 +253,7 @@ PRODUCT_PACKAGES += \
     libwfduibcsrcinterface_proprietary \
     libwfdutils_proprietary \
     libasphere \
+    libmisoundfx \
     libshoebox \
     vendor.qti.hardware.wifidisplaysession@1.0_vendor \
     vendor.qti.hardware.wifidisplaysessionl@1.0-halimpl \
