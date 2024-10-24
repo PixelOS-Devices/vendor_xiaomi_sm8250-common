@@ -795,6 +795,7 @@ cc_prebuilt_library_shared {
 			shared_libs: ["libaudioutils", "libcutils", "liblog", "libc++", "libc", "libm", "libdl", ],
 		},
 	},
+        allow_undefined_symbols: true,
 	compile_multilib: "both",
 	relative_install_path: "soundfx",
 	prefer: true,
