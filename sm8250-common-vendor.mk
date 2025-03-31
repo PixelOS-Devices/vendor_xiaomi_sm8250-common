@@ -204,9 +204,6 @@ PRODUCT_PACKAGES += \
     libbatterylistener \
     libbluetooth_audio_session_qti \
     libbluetooth_audio_session_qti_2_1 \
-    libcapiv2svacnn \
-    libcapiv2svarnn \
-    libcapiv2vop \
     libcomprcapture \
     libexthwplugin \
     libfastcrc \
